@@ -43,3 +43,5 @@ calcular.addEventListener('click', ()=>{ // função principal
     resposta.style.fontFamily = 'Verdana'
     resposta.innerHTML += '<hr>'
 })
+
+// a função principal foi substituída por uma arrow function ()=>
